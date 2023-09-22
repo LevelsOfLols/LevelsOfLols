@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hey, i occasionally do stuff and things
+- Currently editing/working on JSON files to include more content for maptool. (thanks rtakehara for making a framework)
+- Will slowly learn to do stuff when time permits. Current goals are to make a simple game and my own linux "distro"
 
+Thats it. Not much special happening here. Pure hobbies
 <!--
 **LevelsOfLols/LevelsOfLols** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
